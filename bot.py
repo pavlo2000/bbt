@@ -278,7 +278,7 @@ def start(message):
             text = f'Ім\'я: {name}\nГаманець: {money} тунгрики(need change) \nРезерв на виведення: {reserved}'
             bot.send_message(message.from_user.id, text=text, reply_markup=profile_keyboard())
     elif message.text == 'Правила':
-        bot.send_message(message.from_user.id, text=rules, reply_markup=main_menu())
+        bot.send_message(message.from_user.id, text=rules, reply_markup=main_menu(), parse_mode='HTML')
     elif message.text == "Зворотній зв'язок":
         bot.send_message(message.from_user.id, text='Введіть текст який хочете нам надіслати:',)
         bot.register_next_step_handler(message, callback=send_email)
