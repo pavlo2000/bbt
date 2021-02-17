@@ -33,9 +33,9 @@ rules = """Як грати
 🏆Той, хто займе перше місце автоматично отримує свій виіграш на баланс , після чого зможе забрати свій приз.
 
 
-<a href='https://privacybot.s3.eu-central-1.amazonaws.com/%D0%BF%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%B0+%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D0%B4%D0%B5%D0%BD%D1%86%D1%96%D0%B9%D0%BD%D0%BE%D1%81%D1%82%D1%96.RTF'>Політика конфеденційності</a>
-<a href='https://privacybot.s3.eu-central-1.amazonaws.com/%D1%83%D0%B3%D0%BE%D0%B4%D0%B0+%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D0%B0.rtf'>Угода користувача</a>
-<a href='https://privacybot.s3.eu-central-1.amazonaws.com/%D1%83%D0%BC%D0%BE%D0%B2%D0%B8+%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D0%B4%D0%B5%D0%BD%D1%86%D1%96%D0%B9%D0%BD%D0%BE%D1%81%D1%86%D1%96.rtf'>Умови конфеденційносці</a>
+[Політика конфеденційності](https://privacybot.s3.eu-central-1.amazonaws.com/%D0%BF%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%B0+%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D0%B4%D0%B5%D0%BD%D1%86%D1%96%D0%B9%D0%BD%D0%BE%D1%81%D1%82%D1%96.RTF')
+[Угода користувача](https://privacybot.s3.eu-central-1.amazonaws.com/%D1%83%D0%B3%D0%BE%D0%B4%D0%B0+%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D0%B0.rtf')
+[Умови конфеденційносці](https://privacybot.s3.eu-central-1.amazonaws.com/%D1%83%D0%BC%D0%BE%D0%B2%D0%B8+%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D0%B4%D0%B5%D0%BD%D1%86%D1%96%D0%B9%D0%BD%D0%BE%D1%81%D1%86%D1%96.rtf')
 
 
 """
